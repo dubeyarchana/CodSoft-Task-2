@@ -1,0 +1,2 @@
+# CodSoft-Task-2
+SPAM SMS DETECTION
